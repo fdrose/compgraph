@@ -1,4 +1,0 @@
-compgraph
-examples
-resources
-tests

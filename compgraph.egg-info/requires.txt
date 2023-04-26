@@ -1,7 +1,0 @@
-click
-types-python-dateutil
-
-[visualisation]
-pandas>=1.4.4
-matplotlib>=3.5.3
-seaborn>=0.12.0
